@@ -1,6 +1,6 @@
 <h1>Hi, I'm Aathif! 👋</h1>
 
-<h2>👨‍💻 My Data Engineering  and AI Projects:</h2>
+<h2>👨‍💻 My Machine Learning  and Data Science Projects:</h2>
 
 <h2>🎖️ Certifications:</h2>
 
